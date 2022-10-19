@@ -12,4 +12,4 @@
 ![relative-path?raw=true](permalink dari github)
 -->
 
-![common-voice/kontributor-2/lampiran-k2.png?raw=true](https://github.com/id-mozilla/hacktoberfest-2022/blob/4be62c74d09d5c03099c5c1cf2b537a830f6aec7/common-voice/kontributor-2/lampiran-k2.png)
+![[common-voice/kontributor-2/lampiran-k2.png?raw=true](])](https://github.com/id-mozilla/hacktoberfest-2022/blob/34bcfa7af9d2097e804b2dbf4b41e0a01d1dd107/common-voice/kontributor-2/lampiran-k2.png)
