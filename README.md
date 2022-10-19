@@ -19,7 +19,15 @@ Cara berkontribusi di repositori ini - Edisi Hacktoberfest (Pengumpulan dibatasi
     3. Mendaftar di situs Hacktoberfest (www.hacktoberfest.com) - Beri centang di bagian:
     [v] Contributor
     [v] Non-code
-    4. Fork repositori ini dan clone untuk mengedit langsung di editor kode seperti VScode/Atom/dll
+    
+## Membuat Pull Request
+  1. Fork Repositori ini ("Star" untuk pin repositori)
+  2. Buat folder/direktori baru dengan format nama (contoh: banyu_biru)
+  3. Tambah file/berkas dengan format nama.md (contoh: banyu.md) ikuti format yang ada di file kontributor1/kontributor-1.md
+  4. Upload screenshot kontribusi common-voicemu fi direktori banyu_biru
+  5. Buat pull request
+  5. Perubahan yang kamu tambahkan dan buat akan ditinjau dalam 1x24 jam
+
 
 ## Area Kontribusi: 
     1. [Utama] Pengumpulan Dataset Suara (Voice Dataset Collection) Common Voice
@@ -56,6 +64,11 @@ Cara berkontribusi di repositori ini - Edisi Hacktoberfest (Pengumpulan dibatasi
 
 ## Kontribusi Lainnya - Kapan saja
 Silakan gunakan repositori ini untuk menyimpan dokumentasi tulisan/catatan/presentasi non-teknis bermanfaat orisinal yang bersedia dikerjakan/diperbarui/digunakan kembali oleh umum.
+
+1. Buat folder/direktori baru dengan tema yangdiinginkan
+2. Tambahkan konten yang ingin dijadikan sumber-daya terbuka (open-source)
+3. Buat pull request
+4. Perubahan yang kamu tambahkan dan buat di repositori akan ditinjau dalam 1x24 jam sebelum di-merge ke main-branch
 
 
 <b>- Note : DO NOT ADD CHEATSHEETS AND COPIED STUFF, contribute by adding your own documentation, notes, or other resources, COPIED CONTENT or invalid proof will lead in marking spam and your disqualification.</b>
