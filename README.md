@@ -19,6 +19,7 @@ Cara berkontribusi di repositori ini - Edisi Hacktoberfest (Pengumpulan dibatasi
     3. Mendaftar di situs Hacktoberfest (www.hacktoberfest.com) - Beri centang di bagian:
     [v] Contributor
     [v] Non-code
+    4. Fork repositori ini dan clone untuk mengedit langsung di editor kode seperti VScode/Atom/dll
 
 ## Area Kontribusi: 
     1. [Utama] Pengumpulan Dataset Suara (Voice Dataset Collection) Common Voice
