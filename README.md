@@ -2,10 +2,10 @@
     <p>Hacktoberfest 2022: Kontribusi ke proyek <i>Open-source</i></p>
 </h1>
 
-<a href="https://github.com/greenbrown/collab-community/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/greenbrown/collab-community?color=2b9348"></a>
-<a href="https://github.com/greenbrown/collab-community/blob/master/LICENSE"><img src="https://img.shields.io/github/license/greenbrown/collab-community?color=2b9348" alt="License Badge"/></a>
-<a hreaf="https://github.com/greenbrown/collab-community/issues"><img src="https://img.shields.io/github/issues/greenbrown/collab-community?color=pink&logo=github"/></a>
-[![GitHub PRs](https://img.shields.io/github/issues-pr/greenbrown/collab-community?style=social&logo=github)](https://github.com/greenbrown/collab-community/pulls)           [![GitHub forks](https://img.shields.io/github/forks/greenbrown/collab-community?logo=git)](https://github.com/greenbrown/collab-community/network)                        
+<a href="https://github.com/id-mozilla/hacktoberfest-2022/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/id-mozilla/hacktoberfest-2022?color=2b9348"></a>
+<a href="https://github.com/id-mozilla/hacktoberfest-2022/blob/master/LICENSE"><img src="https://img.shields.io/github/license/id-mozilla/hacktoberfest-2022?color=2b9348" alt="License Badge"/></a>
+<a hreaf="https://github.com/id-mozilla/hacktoberfest-2022/issues"><img src="https://img.shields.io/github/issues/id-mozilla/hacktoberfest-2022?color=pink&logo=github"/></a>
+[![GitHub PRs](https://img.shields.io/github/issues-pr/id-mozilla/hacktoberfest-2022?style=social&logo=github)](https://github.com/id-mozilla/hacktoberfest-2022/pulls)           [![GitHub forks](https://img.shields.io/github/forks/id-mozilla/hacktoberfest-2022?logo=git)](https://github.com/id-mozilla/hacktoberfest-2022/network)                        
 
 <p>Diselenggarakan oleh: Mozilla Indonesia</p>
 <i>Non-Code Low-Code</i>
