@@ -65,7 +65,7 @@ Cara berkontribusi di repositori ini - Edisi Hacktoberfest (Pengumpulan dibatasi
 ## Kontribusi Lainnya - Kapan saja
 Silakan gunakan repositori ini untuk menyimpan dokumentasi tulisan/catatan/presentasi non-teknis bermanfaat orisinal yang bersedia dikerjakan/diperbarui/digunakan kembali oleh umum.
 
-1. Buat folder/direktori baru dengan tema yangdiinginkan
+1. Buat folder/direktori baru dengan tema yang diinginkan
 2. Tambahkan konten yang ingin dijadikan sumber-daya terbuka (open-source)
 3. Buat pull request
 4. Perubahan yang kamu tambahkan dan buat di repositori akan ditinjau dalam 1x24 jam sebelum di-merge ke main-branch
