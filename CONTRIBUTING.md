@@ -1,4 +1,4 @@
-# Hacktoberfest '22: Contribute to Voice Dataset - Common Voice
+# Hacktoberfest '22: Contribute to Voice Dataset - Common Voice (EN)
 
 Mozilla Common Voice is an initiative to help teach machines how real people speak.
 
