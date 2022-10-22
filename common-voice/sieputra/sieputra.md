@@ -8,4 +8,4 @@
 | | sieputra | 22/10/2022 | 22.00 | ~80 Klip |
 
 <!-- upload gambar di folder yg sama dan klik copy permalink -->
-![](https://github.com/id-mozilla/hacktoberfest-2022/blob/c029b271b3c3987dc4a6873ef5744ddaa530256f/common-voice/kontributor-1/lampiran-k1.png)
+![](https://github.com/sieputra/id-mozilla-hacktoberfest-2022/blob/3fa9bfc9765e082cf2a808c699bcead2d998e1c3/common-voice/sieputra/sieputra.png)
