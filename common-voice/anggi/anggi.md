@@ -5,4 +5,6 @@
 
 | | Nama/Username common voice | Tanggal | Jam | Jumlah klip | |
 | - | :-: | :-: | :-: | :-: | :-: |
-| | anggi | 19/10/2022 | 23.01 | 80 Klip |
+| | anggillll | 23/10/2022 | 22.00 | 217 Klip |
+
+
