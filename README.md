@@ -57,14 +57,26 @@
 
 ## Kontribusi Review Submission PR 
 1. Bantu periksa lampiran tangkapan layar dan kesesuaian jumlah klip dengan minimum klip
-2. Buat Pull Request dengan format:
-   Saya telah mereview PR #nomor_PR - [keterangan]
+2. Review langsung di Pull Request terkait dan beri keterangan di Pull request terkait
    - a. :heavy_check_mark: LGTM (looks good to me - approve)
    - b. :x: Klip perlu ditambah
    - c. :triangular_flag_on_post: Invalid (tidak sesuai) atau SPAM
+4. Contributor' list: tambahkan nama kalian di tabel berikut (README.md, di bagian kontributor list)
+5. Submit PR untuk kontribusi review kalian dengan Pull Request
+
+### Reviewer Contributor' List
+
+| @username     | #PR yg direview   | Review date |  #PR submission|   Stat                |
+|-------------- |:-----------------:|-----------: | :------------: | :--------------------:|
+| @greenbrown   |  #1               |    25/10/22 |     #4         |:heavy_check_mark: LGTM|
+| @greenbrown   |  #                |             |     #20        |:triangular_flag_on_post: SPAM|
+| ..            |  ..               |          .. |                |            |
+| ..            |  ..               |          .. |                |            |
+
+
 
 ## Kontribusi Lainnya - Kapan saja
-Silakan gunakan repositori ini untuk menyimpan dokumentasi tulisan/catatan/presentasi non-teknis bermanfaat orisinal yang bersedia dikerjakan/diperbarui/digunakan kembali oleh umum.
+Silakan gunakan repositori ini untuk menyimpan dokumentasi tulisan/catatan/presentasi non-teknis bermanfaat orisinal yang bersedia dikerjakan/diperbarui/digunakan kembali oleh siapa pun.
 
 1. Buat folder/direktori baru dengan tema yang diinginkan atau bisa tambahkan di repositori [[baru] collab-community](https://github.com/id-mozilla/collab-community)
 2. Tambahkan konten yang ingin dijadikan sumber-terbuka (open-source)
