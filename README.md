@@ -49,11 +49,7 @@
    b. Pilih menu "Dasbor"
 6. Minimum jumlah klip untuk submit PR adalah 75 klip (>75 klip lebih baik :))
 7. Ambil tangkapan layar(screenshot) di bagian kiri bawah (Aktivitas Kontribusi - dipisahkan  per jam)
-8. Submit Pull Request melalui Github dengan format:
-   #Hacktoberfest
-   [1] Nama: Nama_Peserta
-   [2] Tanggal/Waktu Kontribusi: 20/10/2022 - 19.00
-   [3] Jumlah klip: 75
+8. Submit Pull Request melalui Github dengan deskripsi nama dan jumlah klip yang dikerjakan.
 
 ## Kontribusi Review Submission PR 
 1. Bantu periksa lampiran tangkapan layar dan kesesuaian jumlah klip dengan minimum klip
